@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LcdController", "LcdController\LcdController.csproj", "{B87CF48A-31A2-4B1E-9111-327A5B1393C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LcdController.Cli", "LcdController.Cli\LcdController.Cli.csproj", "{CAD77835-3209-46DA-8661-A16624C41968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LcdController.UnitTests", "LcdController.UnitTests\LcdController.UnitTests.csproj", "{DB550FF6-3C95-4B97-AEDF-5F05C15FC1F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87CF48A-31A2-4B1E-9111-327A5B1393C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87CF48A-31A2-4B1E-9111-327A5B1393C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87CF48A-31A2-4B1E-9111-327A5B1393C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87CF48A-31A2-4B1E-9111-327A5B1393C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD77835-3209-46DA-8661-A16624C41968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD77835-3209-46DA-8661-A16624C41968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD77835-3209-46DA-8661-A16624C41968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD77835-3209-46DA-8661-A16624C41968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB550FF6-3C95-4B97-AEDF-5F05C15FC1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB550FF6-3C95-4B97-AEDF-5F05C15FC1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB550FF6-3C95-4B97-AEDF-5F05C15FC1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB550FF6-3C95-4B97-AEDF-5F05C15FC1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
